@@ -3,7 +3,7 @@
     "validation_csv": "musdb_validation.csv",
     "model_dir": "MIR-1K",
     "mix_name": "mix",
-    "instrument_list": ["vocals"],
+    "instrument_list": ["vocals", "accompaniment"],
     "sample_rate":44100,
     "frame_length":4096,
     "frame_step":1024,
